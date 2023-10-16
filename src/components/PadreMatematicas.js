@@ -4,7 +4,7 @@ function PadreMatematicas(){
 
 const mostrarTriple = (num) => {
     var triple = num *3;
-    console.log("triple : "+num);
+    console.log("triple: "+num);
 }
 
 return <div>
