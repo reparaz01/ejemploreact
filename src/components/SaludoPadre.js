@@ -3,7 +3,7 @@ import SaludoHijo from "./SaludoHijo";
 function saludoPadre(){
 
 const metodoPadre = (nombre) =>{
-    console.log("ejecutando metodo padre" + nombre);
+    console.log(" ejecutando metodo padre" + nombre);
 }
 
 return(<div> 
